@@ -1,6 +1,31 @@
 .App {
-  text-align: center;
+  text-decoration-line: underline;
+  background-color: rgb(41, 175, 59);
+  margin-left: 0%;
+  background-image: url(/src/images/unrealEngine.jpg);
+ 
 }
+.text {
+ 
+  margin-left: 0%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+}
+.if-complete {
+  text-decoration: line-through;
+  margin-left: 0%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+}
+
+
+.todo {
+  
+  margin-left: 5%;
+}
+
 
 .App-logo {
   height: 40vmin;
